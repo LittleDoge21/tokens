@@ -1,0 +1,11 @@
+{
+ "name": "Little Doge",
+ "website": "https://www.littledoge.net/",
+ "description": "The Birth of LITTLE DOGE ! World's Best Community Coin. Bringing Buy-Backs to Crypto.",
+ "explorer": "https://bscscan.com/address/0x4654e1e66d3b05da526b394f298d05ed1b256d6a",
+ "type": "BEP20",
+ "symbol": "Little Doge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x4654E1E66D3B05da526b394F298D05eD1B256d6a"
+}
